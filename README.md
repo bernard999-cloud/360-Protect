@@ -28,10 +28,6 @@ Launch 360 Protect.
 
 Always download 360 Protect from its official GitHub repository.
 
-📄 License
-
-Specify your software license here.
-
 👨‍💻 Developer
 
 Created and developed by the 360 Protect development team.
